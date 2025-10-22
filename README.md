@@ -1,5 +1,5 @@
 # SnoopOnToThem
-A collection of projects for people who like to snoop on the snoopers
+A collection of tools/resources for people who like to snoop on the snoopers
 
 
 I'll finish this some other time but heres a dump of links for future me to sort out
